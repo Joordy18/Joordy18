@@ -1,7 +1,7 @@
 # 👋 Hi
 I'm Joordy, or Lucas! I am passioned of technology and am currently studying at Estiam, Bourges
 
-# 🌐 Socials:
+# 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arcizet-85530b2b5/)
 
