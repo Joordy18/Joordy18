@@ -10,24 +10,9 @@ I'm Joordy, or Lucas! I am passioned of technology and am currently studying at 
 
 # 📊 GitHub Stats
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <thead>
-    <tr>
-      <td>
-        <img
-          src="https://github-readme-stats.vercel.app/api?username=Joordy18&show_icons=true&locale=en&theme=tokyonight&count_private=true"
-          alt="GitHub Stats"
-        />
-      </td>
-      <td>
-        <img
-          src="https://streak-stats.demolab.com/?user=Joordy18&theme=tokyonight"
-          alt="GitHub Stats"
-        />
-      </td>
-    </tr>
-  </thead>
-</table>
+![Joordy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joordy&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+![Joordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joordy18&show_icons=true&locale=en&theme=tokyonight&count_private=true)
 
 # Contact Me
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](joordy) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arcizet-85530b2b5/) 
