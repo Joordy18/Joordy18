@@ -1,4 +1,4 @@
-# 👋 Hi,
+# 👋 Hi
 I'm Joordy, or Lucas! I am passioned of technology and am currently studying at Estiam, Bourges
 
 # 🌐 Socials:
