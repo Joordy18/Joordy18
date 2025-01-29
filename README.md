@@ -10,7 +10,7 @@ I'm Joordy, or Lucas! I am passioned of technology and am currently studying at 
 
 # 📊 GitHub Stats
 
-![Joordy's Top Languages]([![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Joordy18)](https://github.com/anuraghazra/github-readme-stats)
+![Joordy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Joordy18&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![Joordy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Joordy18&show_icons=true&locale=en&theme=tokyonight&count_private=true)
 
