@@ -10,6 +10,24 @@
 
 ## Mes Projets
 
+### Project Conquerors
+
+Site web de Project Conquerors, club esport français actif depuis 2013.
+
+- Refonte et développement du site
+- Gestion des actualités et contenus
+- Présentation des équipes et joueurs
+- Pages partenaires et recrutement
+- Mise en avant des événements
+- Intégration de la boutique et des différents canaux de l'association
+- Interface responsive
+
+**Stack :** Hugo, Tailwind CSS, Decap CMS
+
+🌐 [Voir le site](https://project-conquerors.com)
+
+* * *
+
 ### Trouy Gaming
 
 Site officiel d'un événement gaming organisé dans le Cher.
@@ -19,22 +37,7 @@ Site officiel d'un événement gaming organisé dans le Cher.
 - Travail réalisé pour un événement réel
 
 **Stack :** Astro, JavaScript, CSS  
-🌐 [trouygaming.fr](https://trouygaming.fr/)
-
-* * *
-
-### CocktailGuessr
-
-Jeu web inspiré de FoodGuessr autour de la mixologie.
-
-- Plusieurs modes de jeu
-- Carte interactive
-- Défi quotidien
-- Interface bilingue français / anglais
-- Persistance des scores
-
-**Stack :** React 19, TypeScript, Vite, Leaflet, Supabase  
-🌐 [Voir la démo](https://cocktailguessr-three.vercel.app/)
+🌐 [Voir le site](https://trouygaming.fr/)
 
 * * *
 
