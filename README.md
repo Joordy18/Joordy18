@@ -1,22 +1,62 @@
-<h1 align="center">👋 Salut, moi c'est Lucas</h1>
+<h1 align="center">Salut, moi c'est Lucas 👋</h1>
 
-<p align="center">
-Étudiant développeur (BAC+3 Concepteur Développeur d'Applications) qui aime expérimenter de nouvelles technologies et construire des trucs qui marchent vraiment, du backend à l'interface. Fan de jeux vidéo, d'automatisation, et d'un bon délire dans mes projets.
-</p>
+<p align="center"> <strong>Développeur Full-Stack</strong> · React / TypeScript / Python / FastAPI </p>
 
-<p align="center">
-🇫🇷 Centre-Val-de-Loire · 🔎 Ouvert à une alternance, un poste junior en remote ou des missions freelance
-</p>
+<p align="center"> Étudiant en Bac+3 Concepteur Développeur d'Applications, je développe des sites web, applications et outils d'automatisation, du backend jusqu'à l'interface. </p>
 
----
+<p align="center"> Centre-Val de Loire - Ouvert aux postes junior, alternances et missions freelance - Remote </p>
 
-### 🚀 Ce que je construis
+* * *
 
-- **[cocktailguessr](https://github.com/Joordy18/cocktailguessr)** — un jeu de trivia inspiré de FoodGuessr sur le thème de la mixologie : trois modes de jeu (devine le cocktail, retrouve son origine sur une carte interactive, associe les ingrédients), défi quotidien, interface bilingue FR/EN. React 19, TypeScript, Vite, Leaflet.js, Supabase. Déployé en ligne.
-- Un outil de détection automatique d'opportunités d'achat/revente (projet privé pour le moment) — backend Python/FastAPI, PostgreSQL via SQLAlchemy, normalisation de produits et algorithme de scoring, conteneurisé avec Docker.
-- **[TrouyGaming](https://github.com/Joordy18/TrouyGaming)** — le site d'un évènement à Trouy, LANs, jeux & culture pop
+## Mes Projets
 
-### 🛠️ Stack
+### Trouy Gaming
+
+Site officiel d'un événement gaming organisé dans le Cher.
+
+- Site vitrine responsive
+- Présentation des tournois, planning, FAQ et partenaires
+- Travail réalisé pour un événement réel
+
+**Stack :** Astro, JavaScript, CSS  
+🌐 [trouygaming.fr](https://trouygaming.fr/)
+
+* * *
+
+### CocktailGuessr
+
+Jeu web inspiré de FoodGuessr autour de la mixologie.
+
+- Plusieurs modes de jeu
+- Carte interactive
+- Défi quotidien
+- Interface bilingue français / anglais
+- Persistance des scores
+
+**Stack :** React 19, TypeScript, Vite, Leaflet, Supabase  
+🌐 [Voir la démo](https://cocktailguessr-three.vercel.app/)
+
+* * *
+
+### Filon
+
+Application permettant de détecter et scorer automatiquement des opportunités d'achat/revente.
+
+- API REST avec FastAPI
+- PostgreSQL et SQLAlchemy
+- Normalisation automatique de produits
+- Calcul de prix de référence
+- Algorithme de scoring
+- Conteneurisation Docker
+- Interface web React
+
+**Stack :** Python, FastAPI, PostgreSQL, SQLAlchemy, React, Docker
+
+> Projet actuellement privé.
+
+* * *
+
+## Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -29,7 +69,20 @@
 ![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
 
-### 📫 Me contacter
+* * *
+
+## Ce qui m'intéresse
+
+- Applications web full-stack
+- Outils métier et SaaS
+- Automatisation de workflows
+- APIs et traitement de données
+- Intelligence artificielle appliquée aux outils et produits
+- Projets gaming et interactifs
+
+* * *
+
+## Me contacter
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-arcizet-85530b2b5/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.arcizet@gmail.com)
